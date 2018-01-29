@@ -1,7 +1,7 @@
 // This .d.ts file is based on: https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-class-d-ts.html
 
-// / <reference types="express-session" />
-// / <reference types="express" />
+/// <reference types="express-session" />
+/// <reference types="express" />
 
 import express = require('express')
 import expressSession = require('express-session')
